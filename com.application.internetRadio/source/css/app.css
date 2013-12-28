@@ -1,0 +1,112 @@
+/*
+	Put anything you reference with "url()" in ../assets/
+	This way, you can minify your application, and just remove the "source" folder for production
+*/
+.nice-padding {
+	padding: 15px;
+}
+.viewSetting {
+	width: 700px;
+	height: 800px;
+	background-image: url(assets/bg.png);
+}
+/*music play bar */
+.playerBar {
+background: url(assets/music.jpg);
+}
+/* moodslist */
+.list-sample-contacts-list {
+
+}
+.radio-audio-icon-button{
+
+}
+.moon-audio-icon-button.center {
+	float: right;
+	
+}
+
+.radio-audio-play-time {
+	width: 80px;
+	font-size: 20px;
+	padding-top: 10px;
+}
+.radio-audio-play-time.center {
+	text-align: center;
+}
+.audio-controls {
+	position: relative;
+	float: right;
+
+	
+}
+
+.radio-main {
+	
+
+	background-color: #fff;
+	color: #fff;
+	font-size: x-large;
+
+
+}
+
+.radio-track {
+	position: relative;
+	
+	margin-bottom: 0px;
+	 background: rgba(0, 0, 0, 0.5); 
+	 top: +145px;
+
+}
+.radio-audio-track-info {
+
+
+ 
+}
+
+.panels-sample-sliding-panels > * {
+	width: 30%;
+	background-color: #fff;
+	-moz-box-shadow: -4px 10px 50px -4px  rgba(0,0,0,0.3) ;
+	-webkit-box-shadow: -4px 10px 50px -4px rgba(0,0,0,0.3) ;
+	box-shadow: -4px 10px 50px -4px rgba(0,0,0,0.3) ;
+}
+
+.panels-sample-sliding-item {
+	padding: 10px;
+	border-bottom: 1px solid black;
+}
+
+.panels-sample-sliding-content {
+	text-align: left;
+	padding: 10px;
+}
+
+.list-sample-list {
+	width: 50%;
+	min-width: 300px;
+	max-width: 600px;
+	margin: auto;
+	background-color: #eee;
+}
+
+
+/* image item */
+.list-sample-contacts-avatar {
+	width: 200px;
+	height: 200px;
+	padding: 10px 10px 10px 10px;
+}
+.list-title {
+	color: #6E6E6E;
+	font-size: 15px;
+	font-weight:bold;
+	font-style:italic ;
+	font-size: x-large;
+}
+.list-description {
+	font-size: 12px;
+	color: #D8D8D8;
+	font-size: large;
+}
