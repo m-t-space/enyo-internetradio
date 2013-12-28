@@ -1,4 +1,4 @@
-Inter RAdio Application
+Internet Radio Application
 ============================
 
 Developers:
@@ -20,6 +20,7 @@ You can take it as a learning ground for enyo MVC if not interested in contribut
 
 Note: This project contatins the source file of the application only and not the whole bootplate.
 Steps to run this app:
+
 1) Clone the whole enyo bootplate from "https://github.com/enyojs/bootplate-mvc" 
 
 2) Copy the source and assets folder from this application to the respective folders in bootplate.
