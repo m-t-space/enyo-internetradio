@@ -1,26 +1,8 @@
-/**
-	_moon.AudioPlayback_ is meant to be used with <a href="#moon.Drawers">moon.Drawers</a>.
-	This extends <a href="#moon.Drawer">moon.Drawer</a> by adding  an audio playback control
-	and playlist for the imported audio.
 
-	{kind:"moon.Drawers", drawers:[
-		{
-			kind: "moon.AudioPlayback",
-			handle: {
-				kind: "moon.DrawerHandle",
-				marquee: true
-			}
-		}
-	],
-	components: [
-		{content: "Page Content"}
-	]}
-*/
 
 enyo.kind({
 	name: "RadioPlayback",
-	//kind: "moon.Drawer",
-	//* @protected
+	
 	classes:"radio-main",
 	open: false,
 	controlsOpen: false,
